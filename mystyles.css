@@ -1,0 +1,19 @@
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.bigHeader{
+  font-family: Indie Flower, serif;
+  font-size: 56px;
+}
+.regular{
+  font-family:'Open Sans', sans-serif;
+}
+
+.image{
+  postion: absolute;
+  left: 500px;
+   top: 150px;
+
+}
