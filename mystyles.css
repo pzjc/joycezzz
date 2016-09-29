@@ -6,14 +6,16 @@ body{
 .bigHeader{
   font-family: Indie Flower, serif;
   font-size: 56px;
+  text-align: center;
 }
 .regular{
   font-family:'Open Sans', sans-serif;
+  text-align: center;
+  font-size: 20px
 }
 
-.image{
-  postion: absolute;
-  left: 500px;
-   top: 150px;
-
-}
+.container{
+    margin:auto;
+    padding:10px;
+    display: block;
+   }
